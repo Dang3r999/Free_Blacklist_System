@@ -1,0 +1,9 @@
+{
+    "token": "Your Bot Token",
+    "prefix": "/",
+    "name": "Your Server Name",
+    "guildid": "Guild ID (Discord Server ID)",
+    "color": "Your Bot Messages Color",
+    "channelid": "BlackList Channel ID",
+    "messageid": "BlackList Message ID"
+}

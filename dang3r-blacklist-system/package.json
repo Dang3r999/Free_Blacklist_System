@@ -1,0 +1,15 @@
+{
+  "name": "free_blacklist_system_discord",
+  "version": "1.0.0",
+  "description": "a free blacklist member from community server's by Dang3r.#3553",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dang3r.#3553",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  }
+}
